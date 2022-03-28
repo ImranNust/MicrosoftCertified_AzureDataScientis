@@ -13,3 +13,14 @@ This couse contains five modules as follows:
 3. [Module3: Train and Evaluate Classification Models](https://github.com/ImranNust/MicrosoftCertified_AzureDataScientis/blob/main/Course1_CreateMachineLearningModels/Course1_Module3TrainandEvaluateClassificationModels.ipynb)
 4. [Module4: Train and Evaluate Clustering Models](https://github.com/ImranNust/MicrosoftCertified_AzureDataScientis/blob/main/Course1_CreateMachineLearningModels/Course1_Module4TrainandEvaluateClusteringModels.ipynb)
 5. [Module5: Train and Evaluate Deep Learning Models](https://github.com/ImranNust/MicrosoftCertified_AzureDataScientis/blob/main/Course1_CreateMachineLearningModels/Course1_Module5TrainAndEvaluateDeepLearningModels.ipynb)
+
+<hr>
+
+## Course2: Microsoft Azure AI Fundamentals
+
+This couse contains four modules as follows:
+
+1. [a]()
+2. [b]()
+3. [c]()
+4. [d]()
