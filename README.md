@@ -24,3 +24,28 @@ This couse contains four modules as follows:
 2. [**Module 2:** Create a Regression Model with Azure Machine Learning](https://github.com/ImranNust/MicrosoftCertified_AzureDataScientis/blob/main/Course2_MicrosoftAzureAIFundamentals/Course2_Module2_CreateARegressionModelWithAzureMachineLearning.ipynb)
 3. [**Module 3:** Create A Classification Model With Azure Machine Learning Designer](https://github.com/ImranNust/MicrosoftCertified_AzureDataScientis/blob/main/Course2_MicrosoftAzureAIFundamentals/Course2_Module3CreateAClassificationModelWithAzureMachineLearningDesigner.ipynb)
 4. [**Module 4:** Create A Clustering Model With Azure Machine Learning Designer](https://github.com/ImranNust/MicrosoftCertified_AzureDataScientis/blob/main/Course2_MicrosoftAzureAIFundamentals/Course2_Module4CreateAClusteriingModelWithAzureMachineLearningDesigner.ipynb)
+
+<hr>
+
+## Course 3: Build and Operate Machine Learning Solutions With Azure Machine Learning
+
+This couse contains fifteen modules as follows:
+
+1. [**Module 1:** Introduction To The Azure Machine Learning SDK](https://github.com/ImranNust/MicrosoftCertified_AzureDataScientis/blob/main/Course3_BuildandOperateMachineLearningSolutionsWithAzureMachineLearning/Course3_Module1IntroductionToTheAzureMachineLearningSDK.ipynb)
+2. [**Module 2:** Train A Machine Learning Model With Azure Machine Learning](https://github.com/ImranNust/MicrosoftCertified_AzureDataScientis/blob/main/Course3_BuildandOperateMachineLearningSolutionsWithAzureMachineLearning/Course3_Module2TrainAMachineLearningModelWithAzureMachineLearning.ipynb)
+3. [**Module 3:** Work With Data In Azure Machine Learning](https://github.com/ImranNust/MicrosoftCertified_AzureDataScientis/blob/main/Course3_BuildandOperateMachineLearningSolutionsWithAzureMachineLearning/Course3_Module3WorkWithDataInAzureMachineLearning.ipynb)
+4. [**Module 4:** Work With Compute In Azure Machine Learning](https://github.com/ImranNust/MicrosoftCertified_AzureDataScientis/blob/main/Course3_BuildandOperateMachineLearningSolutionsWithAzureMachineLearning/Course3_Module4WorkWithComputeInAzureMachineLearning.ipynb)
+5. [**Module 5:** Orchestrate machine learning with pipelines](https://github.com/ImranNust/MicrosoftCertified_AzureDataScientis/blob/main/Course3_BuildandOperateMachineLearningSolutionsWithAzureMachineLearning/Course3_Module5Orchestratemachinelearningwithpipelines.ipynb)
+6. [**Module 6:** Deployreal_timemachinelearningserviceswithAzureMachineLearning](https://github.com/ImranNust/MicrosoftCertified_AzureDataScientis/blob/main/Course3_BuildandOperateMachineLearningSolutionsWithAzureMachineLearning/Course3_Module6Deployreal_timemachinelearningserviceswithAzureMachineLearning.ipynb)
+7. [**Module 7:** DeploybatchinferencepipelineswithAzureMachineLearning](https://github.com/ImranNust/MicrosoftCertified_AzureDataScientis/blob/main/Course3_BuildandOperateMachineLearningSolutionsWithAzureMachineLearning/Course3_Module7DeploybatchinferencepipelineswithAzureMachineLearning.ipynb)
+8. [**Module 8:** TunehyperparameterswithAzureMachineLearning](https://github.com/ImranNust/MicrosoftCertified_AzureDataScientis/blob/main/Course3_BuildandOperateMachineLearningSolutionsWithAzureMachineLearning/Course3_Module8TunehyperparameterswithAzureMachineLearning.ipynb)
+9. [**Module 9:** AutomatemachinelearningmodelselectionwithAzureMachineLearning](https://github.com/ImranNust/MicrosoftCertified_AzureDataScientis/blob/main/Course3_BuildandOperateMachineLearningSolutionsWithAzureMachineLearning/Course3_Module9AutomatemachinelearningmodelselectionwithAzureMachineLearning.ipynb)
+10.[**Module 10:** Exploredifferentialprivacy](https://github.com/ImranNust/MicrosoftCertified_AzureDataScientis/blob/main/Course3_BuildandOperateMachineLearningSolutionsWithAzureMachineLearning/Course3_Module10Exploredifferentialprivacy.ipynb)
+11.[**Module 11:** ExplainmachinelearningmodelswithAzureMachineLearning](https://github.com/ImranNust/MicrosoftCertified_AzureDataScientis/blob/main/Course3_BuildandOperateMachineLearningSolutionsWithAzureMachineLearning/Course3_Module11ExplainmachinelearningmodelswithAzureMachineLearning.ipynb)
+12.[**Module 12:** Detectandmitigateunfairness_inmodelswithAzureMachineLearning](https://github.com/ImranNust/MicrosoftCertified_AzureDataScientis/blob/main/Course3_BuildandOperateMachineLearningSolutionsWithAzureMachineLearning/Course3_Module12Detectandmitigateunfairness_inmodelswithAzureMachineLearning.ipynb)
+13.[**Module 13:** MonitormodelswithAzureMachineLearning](https://github.com/ImranNust/MicrosoftCertified_AzureDataScientis/blob/main/Course3_BuildandOperateMachineLearningSolutionsWithAzureMachineLearning/Course3_Module13MonitormodelswithAzureMachineLearning.ipynb)
+14.[**Module 14:** MonitordatadriftwithAzureMachineLearning](https://github.com/ImranNust/MicrosoftCertified_AzureDataScientis/blob/main/Course3_BuildandOperateMachineLearningSolutionsWithAzureMachineLearning/Course3_Module14MonitordatadriftwithAzureMachineLearning.ipynb)
+15.[**Module 15:** ExploresecurityconceptsinAzureMachineLearning](https://github.com/ImranNust/MicrosoftCertified_AzureDataScientis/blob/main/Course3_BuildandOperateMachineLearningSolutionsWithAzureMachineLearning/Course3_Module15ExploresecurityconceptsinAzureMachineLearning.ipynb)
+
+
+<hr>
