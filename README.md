@@ -47,5 +47,11 @@ This couse contains fifteen modules as follows:
 14. [**Module 14:** Monitor Data Drift with Azure Machine Learning](https://github.com/ImranNust/MicrosoftCertified_AzureDataScientis/blob/main/Course3_BuildandOperateMachineLearningSolutionsWithAzureMachineLearning/Course3_Module14MonitordatadriftwithAzureMachineLearning.ipynb)
 15. [**Module 15:** Explore Security Concepts in Azure Machine Learning](https://github.com/ImranNust/MicrosoftCertified_AzureDataScientis/blob/main/Course3_BuildandOperateMachineLearningSolutionsWithAzureMachineLearning/Course3_Module15ExploresecurityconceptsinAzureMachineLearning.ipynb)
 
+<hr>
+
+
+## Course 4: Build and Operate Machine Learning Solutions with Azure Databricks
+
+1. [**Module1: ** GetstartedwithAzureDatabricks](https://github.com/ImranNust/MicrosoftCertified_AzureDataScientis/blob/main/Course4_BuildandOperateMachineLearningSolutionswithAzureDatabricks/Course4_Module1GetstartedwithAzureDatabricks.ipynb)
 
 <hr>
