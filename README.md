@@ -59,7 +59,7 @@ This couse contains fifteen modules as follows:
 5. [**Module 5:** UseMLflowtotrackexperimentsinAzureDatabricks](https://github.com/ImranNust/MicrosoftCertified_AzureDataScientis/blob/main/Course4_BuildandOperateMachineLearningSolutionswithAzureDatabricks/Course4_Module5UseMLflowtotrackexperimentsinAzureDatabricks.ipynb)
 6. [**Module 6:** ManagemachinelearningmodelsinAzureDatabrick](https://github.com/ImranNust/MicrosoftCertified_AzureDataScientis/blob/main/Course4_BuildandOperateMachineLearningSolutionswithAzureDatabricks/Course4_Module6ManagemachinelearningmodelsinAzureDatabricks.ipynb)
 7. [**Module 7:** TrackAzureDatabricksexperimentsinAzureMachineLearning](https://github.com/ImranNust/MicrosoftCertified_AzureDataScientis/blob/main/Course4_BuildandOperateMachineLearningSolutionswithAzureDatabricks/Course4_Module7TrackAzureDatabricksexperimentsinAzureMachineLearning.ipynb)
-8. [**Module 8:** ]()
+8. [**Module 8:** DeployAzureDatabricksmodelsinAzureMachineLearning](https://github.com/ImranNust/MicrosoftCertified_AzureDataScientis/blob/main/Course4_BuildandOperateMachineLearningSolutionswithAzureDatabricks/Course4_Module8DeployAzureDatabricksmodelsinAzureMachineLearning.ipynb)
 9. [**Module 9:** ]()
 10. [**Module 10:** ]()
 
