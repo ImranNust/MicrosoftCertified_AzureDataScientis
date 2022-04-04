@@ -52,6 +52,15 @@ This couse contains fifteen modules as follows:
 
 ## Course 4: Build and Operate Machine Learning Solutions with Azure Databricks
 
-1. [**Module1: ** GetstartedwithAzureDatabricks](https://github.com/ImranNust/MicrosoftCertified_AzureDataScientis/blob/main/Course4_BuildandOperateMachineLearningSolutionswithAzureDatabricks/Course4_Module1GetstartedwithAzureDatabricks.ipynb)
+1. [**Module 1:** Get Started with Azure Databricks](https://github.com/ImranNust/MicrosoftCertified_AzureDataScientis/blob/main/Course4_BuildandOperateMachineLearningSolutionswithAzureDatabricks/Course4_Module1GetstartedwithAzureDatabricks.ipynb)
+2. [**Module 2:** Work with Data in Azure Databricks ](https://github.com/ImranNust/MicrosoftCertified_AzureDataScientis/blob/main/Course4_BuildandOperateMachineLearningSolutionswithAzureDatabricks/Course4_Module2WorkwithdatainAzureDatabricks.ipynb)
+3. [**Module 3:** PreparedataformachinelearningwithAzureDatabricks](https://github.com/ImranNust/MicrosoftCertified_AzureDataScientis/blob/main/Course4_BuildandOperateMachineLearningSolutionswithAzureDatabricks/Course4_Module3PreparedataformachinelearningwithAzureDatabricks.ipynb)
+4. [**Module 4:** ]()
+5. [**Module 5:** ]()
+6. [**Module 6:** ]()
+7. [**Module 7:** ]()
+8. [**Module 8:** ]()
+9. [**Module 9:** ]()
+10. [**Module 10:** ]()
 
 <hr>
