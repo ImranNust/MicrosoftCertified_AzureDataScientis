@@ -60,7 +60,7 @@ This couse contains fifteen modules as follows:
 6. [**Module 6:** ManagemachinelearningmodelsinAzureDatabrick](https://github.com/ImranNust/MicrosoftCertified_AzureDataScientis/blob/main/Course4_BuildandOperateMachineLearningSolutionswithAzureDatabricks/Course4_Module6ManagemachinelearningmodelsinAzureDatabricks.ipynb)
 7. [**Module 7:** TrackAzureDatabricksexperimentsinAzureMachineLearning](https://github.com/ImranNust/MicrosoftCertified_AzureDataScientis/blob/main/Course4_BuildandOperateMachineLearningSolutionswithAzureDatabricks/Course4_Module7TrackAzureDatabricksexperimentsinAzureMachineLearning.ipynb)
 8. [**Module 8:** DeployAzureDatabricksmodelsinAzureMachineLearning](https://github.com/ImranNust/MicrosoftCertified_AzureDataScientis/blob/main/Course4_BuildandOperateMachineLearningSolutionswithAzureDatabricks/Course4_Module8DeployAzureDatabricksmodelsinAzureMachineLearning.ipynb)
-9. [**Module 9:** ]()
-10. [**Module 10:** ]()
+9. [**Module 9:** TunehyperparameterswithAzureDatabricks](https://github.com/ImranNust/MicrosoftCertified_AzureDataScientis/blob/main/Course4_BuildandOperateMachineLearningSolutionswithAzureDatabricks/Course4_Module9TunehyperparameterswithAzureDatabricks.ipynb)
+10. [**Module 10:** DistributeddeeplearningwithHorovodandAzureDatabricks](https://github.com/ImranNust/MicrosoftCertified_AzureDataScientis/blob/main/Course4_BuildandOperateMachineLearningSolutionswithAzureDatabricks/Course4_Module10DistributeddeeplearningwithHorovodandAzureDatabricks.ipynb)
 
 <hr>
