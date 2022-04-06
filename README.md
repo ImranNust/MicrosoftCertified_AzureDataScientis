@@ -1,6 +1,6 @@
 <center> <h1>  Microsoft Certified: Azure Data Scientis  </h1> </center>
 
-This repository contains the courses, modules, lectures, and other preparation material for Microsoft Certified: Azure Data Scientist Associate.
+This repository contains the courses, modules, lectures, and other preparation material for [Microsoft Certified: Azure Data Scientist Associate](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-100).
 
 <hr>
 
